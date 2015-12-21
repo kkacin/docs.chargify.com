@@ -141,6 +141,7 @@ Doculab::TableOfContents.define do
     page "API: Product Families"
     page "API: Products"
     page "API: Quantity Component Allocations", :permalink => "api-quantity-allocations"
+    page "API: Referral Codes"
     page "API: Refunds"
     page "API: Refunds - External", :permalink => "api-refunds-external"
     page "API: Renewal Preview"
@@ -149,6 +150,7 @@ Doculab::TableOfContents.define do
     page "API: Stats"
     page "API: Subscription Preview"
     page "API: Subscriptions"
+    page "API: Subscription Override"
     page "API: Transactions"
     page "API: Webhooks"
   end
